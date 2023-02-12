@@ -1,0 +1,13 @@
+{
+   "Miminnya" : "Febriansyah",
+   "BotName" : "ZeeBot",   
+   "ownerNumber" : "6285849261085",
+   "fake" : "© WhatsApp Bot",
+   "SesionName" : "WeaBot",
+   "gamewaktu" : 120,
+   "limitCount": 100,
+   "gcount": {
+	"premi": 35,
+	"useri": 15
+	}
+}
